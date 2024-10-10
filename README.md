@@ -58,4 +58,4 @@ pragma solidity ^0.8.26;
 ## Authors
 
 Contributors names and contact info
-(@wan1carlos)[https://github.com/wan1carlos]
+[@wan1carlos](https://github.com/wan1carlos)
